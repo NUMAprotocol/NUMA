@@ -12,3 +12,27 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# Build outputs
+/dist
+/build
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
+
+
+ git push -u origin main
