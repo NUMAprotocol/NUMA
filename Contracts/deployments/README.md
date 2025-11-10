@@ -1,1 +1,1 @@
-# "Testnet deployment planned Q1 2025"
+# "Testnet deployment planned Q4 2025"
