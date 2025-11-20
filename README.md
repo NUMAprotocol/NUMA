@@ -37,16 +37,4 @@ const numa = new NumaClient({
 });
 ```
 
-📚 Documentation
-Whitepaper
 
-API Reference
-
-Integration Guide
-
-💬 Community
-Website: https://numa.network
-
-Twitter: @numa_network
-
-Discord: Join our community
