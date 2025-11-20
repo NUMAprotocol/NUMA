@@ -22,19 +22,5 @@ Agent Layer → NUMA Marketplace → x402 Protocol → Provider Layer
 AI Agents Discovery & Payments & Data APIs
 Negotiation Settlement Compute
 
-## 🛠️ Quick Start
-
-```bash
-# Install dependencies
-npm install @numa-network/sdk
-
-# Initialize NUMA client
-import { NumaClient } from '@numa-network/sdk';
-
-const numa = new NumaClient({
-  network: 'mainnet',
-  x402Endpoint: 'https://x402.num.network'
-});
-```
 
 
